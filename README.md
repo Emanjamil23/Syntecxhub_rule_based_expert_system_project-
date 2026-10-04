@@ -1,4 +1,4 @@
-# Rule-Based Expert System (Project 2)
+# Rule-Based Expert System 
 
 A Python expert system that accepts user-selected symptoms, applies IF-THEN rules with **forward chaining**, and displays its reasoning path.
 
